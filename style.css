@@ -227,7 +227,7 @@ li.fade {
   align-items: center;
   justify-content: center;
   text-align: center;
- margin: 2rem auto;
+  margin: 1rem auto;
   height: auto;
   padding: 1rem 0 0 0;
   margin-right: 0;
@@ -542,7 +542,7 @@ figcaption h3 {
     margin-left: 55%;
 
     height: auto;
-    padding: 1rem 0 0 0;00
+    padding: 1rem 0 0 0;
     margin-right: 0;
     border-radius: 5px;
     background-color: var(--clr-primary);
